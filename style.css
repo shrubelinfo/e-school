@@ -1,0 +1,84 @@
+.mainarea{
+background-color: #F0FFF0;
+    height: 500px;
+    margin-bottom: 40px;
+}
+.logoimg{
+    width: 100px;
+}
+.sign{
+    background-color: #21B573;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    padding: 5px 10px;
+    margin-top: 5px;
+}
+.btnn{
+    color: white;
+    background-color: #21B573;
+    border-radius: 33px;
+    border: none;
+    padding: 10px 20px;
+    
+}
+.iconimg{
+    width: 70px;
+}
+.cd1, .cd3, .cd4{
+    border: none;
+}
+.cd2{
+    border: none;
+    box-shadow: 10px 20px 30px lightgray;
+}
+
+.book{
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+.clndr{
+    width: 20px;
+    float: left;
+margin-top: 3px;
+margin-right: 3px;
+}
+
+.card{
+    border: none;
+}
+
+.dign{
+    margin-bottom: 100px;
+}
+.card-footer{
+    background-color: white;
+    border: none;
+}
+.fullcard{
+    box-shadow: 10px 10px 40px lightgray;
+    border-radius: 18px;
+}
+
+.manpic{
+    width: 100px;
+    margin-left: 150px;
+
+
+}
+
+.mantext{
+    margin-left: 50px;
+}
+footer{
+    height: 360px;
+    background-color: #282531;
+}
+footer p{
+    color: white;
+}
+.copy{
+    text-align: center;
+    font-size: 13px;
+    margin-top: 60px;
+}
